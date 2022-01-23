@@ -4,7 +4,20 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		test14();
+		test20();
+	}
+	
+	public static void test20() {
+		Solution20 solution = new Solution20();
+		
+		System.out.println("result: " + solution.isValid("[()]") + ", expected: true");
+		System.out.println("result: " + solution.isValid("()") + ", expected: true");
+		System.out.println("result: " + solution.isValid("[]") + ", expected: true");
+		System.out.println("result: " + solution.isValid("([])") + ", expected: true");
+		System.out.println("result: " + solution.isValid("[()]()") + ", expected: true");
+		System.out.println("result: " + solution.isValid("[(])") + ", expected: false");
+		System.out.println("result: " + solution.isValid("") + ", expected: true");
+		System.out.println("result: " + solution.isValid("[()") + ", expected: false");
 	}
 	
 	public static void test14() {
