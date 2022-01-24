@@ -3,6 +3,9 @@ package com.touir.leetcode;
 import java.util.Stack;
 
 public class Solution20 extends Solution {
+	
+	// problem : https://leetcode.com/problems/valid-parentheses
+	
 	public boolean isValid(String s) {
         boolean result = true;
 		
