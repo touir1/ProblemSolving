@@ -1,6 +1,6 @@
 package com.touir.leetcode;
 
-public class Solution9 {
+public class Solution9 extends Solution{
 	
 	// problem: https://leetcode.com/problems/palindrome-number/
 	
@@ -14,4 +14,13 @@ public class Solution9 {
 		
 		return new StringBuilder(s).reverse().toString().equals(s);
     }
+
+	@Override
+	public void test() {
+		System.out.println("result: " + this.isPalindrome(1) + ", expected: true");
+		System.out.println("result: " + this.isPalindrome(121) + ", expected: true");
+		System.out.println("result: " + this.isPalindrome(-121) + ", expected: false");
+		System.out.println("result: " + this.isPalindrome(123) + ", expected: false");
+		System.out.println("result: " + this.isPalindrome(10) + ", expected: false");
+	}
 }

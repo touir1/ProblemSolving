@@ -2,7 +2,7 @@ package com.touir.leetcode;
 
 import java.util.Stack;
 
-public class Solution20 {
+public class Solution20 extends Solution {
 	public boolean isValid(String s) {
         boolean result = true;
 		
@@ -39,4 +39,16 @@ public class Solution20 {
         
         return result && stack.isEmpty();
     }
+
+	@Override
+	public void test() {
+		System.out.println("result: " + this.isValid("[()]") + ", expected: true");
+		System.out.println("result: " + this.isValid("()") + ", expected: true");
+		System.out.println("result: " + this.isValid("[]") + ", expected: true");
+		System.out.println("result: " + this.isValid("([])") + ", expected: true");
+		System.out.println("result: " + this.isValid("[()]()") + ", expected: true");
+		System.out.println("result: " + this.isValid("[(])") + ", expected: false");
+		System.out.println("result: " + this.isValid("") + ", expected: true");
+		System.out.println("result: " + this.isValid("[()") + ", expected: false");
+	}
 }

@@ -1,6 +1,6 @@
 package com.touir.leetcode;
 
-public class Solution14 {
+public class Solution14 extends Solution {
 	
 	public String longestCommonPrefix(String[] strs) {
         String result = strs[0];
@@ -20,4 +20,14 @@ public class Solution14 {
         
         return result;
     }
+
+	@Override
+	public void test() {
+		System.out.println("result: " 
+				+ this.longestCommonPrefix(new String[] {"flower","flow","flight"}) 
+				+ ", expected: fl");
+		System.out.println("result: " 
+				+ this.longestCommonPrefix(new String[] {"dog","racecar","car"}) 
+				+ ", expected: ");
+	}
 }

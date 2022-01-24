@@ -1,9 +1,6 @@
 package com.touir.leetcode;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Solution13 {
+public class Solution13 extends Solution {
 	
 	// problem: https://leetcode.com/problems/roman-to-integer/
 	
@@ -57,5 +54,15 @@ public class Solution13 {
 			case 'M': return 1000;
 			default: return 0;
 		}
+	}
+
+	@Override
+	public void test() {
+		System.out.println("input: X, result: " + this.romanToInt("X") + ", expected: 10");
+		System.out.println("input: I, result: " + this.romanToInt("I") + ", expected: 1");
+		System.out.println("input: III, result: " + this.romanToInt("III") + ", expected: 3");
+		System.out.println("input: IV, result: " + this.romanToInt("IV") + ", expected: 4");
+		System.out.println("input: VI, result: " + this.romanToInt("VI") + ", expected: 6");
+		System.out.println("input: MCMXCIV, result: " + this.romanToInt("MCMXCIV") + ", expected: 1994");
 	}
 }
