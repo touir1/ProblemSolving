@@ -13,5 +13,6 @@ A repository documenting my daily problem solving to refresh my algorithmic skil
 - _[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution14.java)
 - _[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution20.java)
 - _[520. Detect Capital](https://leetcode.com/problems/detect-capital)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution520.java)
+- _[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution941.java)
 - _[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1291.java)
 - _[1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1510.java)
