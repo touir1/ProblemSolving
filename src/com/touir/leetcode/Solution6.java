@@ -2,12 +2,8 @@ package com.touir.leetcode;
 
 public class Solution6 extends Solution {
 
-	/**
-	 *
-	 * 6. Zigzag Conversion problem:
-	 * https://leetcode.com/problems/zigzag-conversion/
-	 *
-	 */
+	// problem: 6. Zigzag Conversion
+	// url: https://leetcode.com/problems/zigzag-conversion/
 
 	public String convert(String s, int numRows) {
 		if (numRows == 1 || numRows > s.length())
