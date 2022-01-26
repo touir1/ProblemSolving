@@ -16,4 +16,5 @@ A repository documenting my daily problem solving to refresh my algorithmic skil
 - _[520. Detect Capital](https://leetcode.com/problems/detect-capital)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution520.java)
 - _[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution941.java)
 - _[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1291.java)
+- _[1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1305.java)
 - _[1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1510.java)
