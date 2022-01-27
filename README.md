@@ -1,6 +1,6 @@
 # ProblemSolving
 
-A repository documenting my daily problem solving to refresh my algorithmic skills
+A repository documenting my daily problem solving to prepare for Google interviews :sweat_smile:
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) [JAVA] :***
 
