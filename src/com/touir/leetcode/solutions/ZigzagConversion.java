@@ -1,9 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution6 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: 6. Zigzag Conversion
-	// url: https://leetcode.com/problems/zigzag-conversion/
+public class ZigzagConversion extends Solution {
+
+	/**
+	 * problem: 6. Zigzag Conversion
+	 *
+	 * url: https://leetcode.com/problems/zigzag-conversion/
+	 */
 
 	public String convert(String s, int numRows) {
 		if (numRows == 1 || numRows > s.length())

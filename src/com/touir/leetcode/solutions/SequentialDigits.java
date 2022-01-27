@@ -1,11 +1,17 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution1291 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/sequential-digits
+public class SequentialDigits extends Solution {
+
+	/**
+	 * problem: 1291. Sequential Digits
+	 * 
+	 * url: https://leetcode.com/problems/sequential-digits
+	 */
 	
 	public List<Integer> sequentialDigits(int low, int high) {
         List<Integer> result = new ArrayList<Integer>();

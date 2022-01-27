@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution1510 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/stone-game-iv/
+public class StoneGameIV extends Solution {
+
+	/**
+	 * problem: 1510. Stone Game IV
+	 *
+	 * url: https://leetcode.com/problems/stone-game-iv/
+	 */
 
 	Boolean dp[] = new Boolean[100001];
 

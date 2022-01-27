@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution14 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/longest-common-prefix/
+public class LongestCommonPrefix extends Solution {
+
+	/**
+	 * problem: 14. Longest Common Prefix
+	 *
+	 * url: https://leetcode.com/problems/longest-common-prefix/
+	 */
 
 	public String longestCommonPrefix(String[] strs) {
 		String result = strs[0];

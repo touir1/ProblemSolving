@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution13 extends Solution {
+import com.touir.leetcode.Solution;
+
+public class RomanToInteger extends Solution {
 	
-	// problem: https://leetcode.com/problems/roman-to-integer/
+	/**
+	 * problem: 13. Roman to Integer
+	 * 
+	 * url: https://leetcode.com/problems/roman-to-integer/
+	 */
 	
 	public int romanToInt(String s) {
 		int result = 0;

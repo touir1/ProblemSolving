@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution9 extends Solution{
+import com.touir.leetcode.Solution;
+
+public class PalindromeNumber extends Solution{
 	
-	// problem: https://leetcode.com/problems/palindrome-number/
+	/**
+	 * problem: 9. Palindrome Number
+	 *
+	 * url: https://leetcode.com/problems/palindrome-number/
+	 */
 	
 	public boolean isPalindrome(int x) {
 		if(x < 0) return false;

@@ -1,16 +1,20 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution520 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/detect-capital/
-	
+public class DetectCapital extends Solution {
+
+	/**
+	 * problem: 520. Detect Capital
+	 *
+	 * url: https://leetcode.com/problems/detect-capital/
+	 */
+
 	public boolean detectCapitalUse(String word) {
-		return word.toUpperCase().equals(word) 
-				|| word.toLowerCase().equals(word) 
-				|| word.substring(0,1).toUpperCase()
-				.concat(word.toLowerCase().substring(1)).equals(word);
-    }
-	
+		return word.toUpperCase().equals(word) || word.toLowerCase().equals(word)
+				|| word.substring(0, 1).toUpperCase().concat(word.toLowerCase().substring(1)).equals(word);
+	}
+
 	@Override
 	public void test() {
 		System.out.println("result: " + this.detectCapitalUse("word") + ", expected: true");

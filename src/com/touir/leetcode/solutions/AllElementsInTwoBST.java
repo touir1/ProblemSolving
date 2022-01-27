@@ -1,13 +1,18 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class Solution1305 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem:
-	// https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+public class AllElementsInTwoBST extends Solution {
+
+	/**
+	 * problem: 1305. All Elements in Two Binary Search Trees
+	 *
+	 * url: https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+	 */
 
 	public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
 		List<Integer> result = new ArrayList<Integer>();

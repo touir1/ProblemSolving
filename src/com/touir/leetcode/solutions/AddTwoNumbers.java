@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution2 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/add-two-numbers/
+public class AddTwoNumbers extends Solution {
+
+	/**
+	 * problem: 2. Add Two Numbers
+	 *
+	 * url: https://leetcode.com/problems/add-two-numbers/
+	 */ 
 
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode result = new ListNode();

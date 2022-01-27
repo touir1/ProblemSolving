@@ -1,10 +1,13 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution421 extends Solution {
+import com.touir.leetcode.Solution;
+
+public class MaxXORInArray extends Solution {
 
 	/**
-	 * problem: 421. Maximum XOR of Two Numbers in an Array url:
-	 * https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+	 * problem: 421. Maximum XOR of Two Numbers in an Array
+	 *
+	 * url: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 	 */
 
 	int intBits = Integer.SIZE;

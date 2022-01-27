@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution941 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/valid-mountain-array/
+public class ValidMountainArray extends Solution {
+
+	/**
+	 * problem: 941. Valid Mountain Array
+	 *
+	 * url: https://leetcode.com/problems/valid-mountain-array/
+	 */
 
 	public boolean validMountainArray(int[] arr) {
 		if (arr.length < 3)

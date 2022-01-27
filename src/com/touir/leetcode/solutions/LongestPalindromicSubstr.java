@@ -1,8 +1,14 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
-public class Solution5 extends Solution {
+import com.touir.leetcode.Solution;
 
-	// problem: https://leetcode.com/problems/longest-palindromic-substring/
+public class LongestPalindromicSubstr extends Solution {
+
+	/**
+	 * problem: 5. Longest Palindromic Substring
+	 *
+	 * url: https://leetcode.com/problems/longest-palindromic-substring/
+	 */
 
 	public String longestPalindrome(String s) {
 		if (s.length() <= 1)

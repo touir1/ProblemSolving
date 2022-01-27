@@ -1,10 +1,16 @@
-package com.touir.leetcode;
+package com.touir.leetcode.solutions;
 
 import java.util.Stack;
 
-public class Solution20 extends Solution {
+import com.touir.leetcode.Solution;
+
+public class ValidParentheses extends Solution {
 	
-	// problem : https://leetcode.com/problems/valid-parentheses
+	/**
+	 * problem: 20. Valid Parentheses
+	 *
+	 * url: https://leetcode.com/problems/valid-parentheses
+	 */
 	
 	public boolean isValid(String s) {
         boolean result = true;
