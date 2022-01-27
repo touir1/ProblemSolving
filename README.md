@@ -14,6 +14,7 @@ A repository documenting my daily problem solving to refresh my algorithmic skil
 - _[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution13.java)
 - _[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution14.java)
 - _[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution20.java)
+- _[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution421.java)
 - _[520. Detect Capital](https://leetcode.com/problems/detect-capital)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution520.java)
 - _[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution941.java)
 - _[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/Solution1291.java)
