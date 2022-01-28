@@ -14,6 +14,7 @@ A repository documenting my daily problem solving to prepare for Google intervie
 - _[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/RomanToInteger.java)
 - _[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/LongestCommonPrefix.java)
 - _[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/ValidParentheses.java)
+- _[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/SearchWordsDataStructure.java)
 - _[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/MaxXORInArray.java)
 - _[520. Detect Capital](https://leetcode.com/problems/detect-capital)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/DetectCapital.java)
 - _[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)_ : [Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/ValidMountainArray.java)
