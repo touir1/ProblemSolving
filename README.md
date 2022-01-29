@@ -12,6 +12,8 @@ A repository documenting my daily problem solving to prepare for Google intervie
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/MedianTwoSortedArrays.java) |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/LongestPalindromicSubstr.java) |
 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/ZigzagConversion.java) |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/ReverseInteger.java) |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/StringToIntAtoi.java) |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/PalindromeNumber.java) |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/RomanToInteger.java) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/LongestCommonPrefix.java) |
