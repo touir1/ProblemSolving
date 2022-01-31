@@ -27,3 +27,4 @@ A repository documenting my daily problem solving to prepare for Google intervie
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/SequentialDigits.java) |
 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/AllElementsInTwoBST.java) |
 | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/StoneGameIV.java) |
+| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java Solution](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/leetcode/solutions/RichestCustomerWealth.java) |
