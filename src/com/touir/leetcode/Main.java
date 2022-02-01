@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.GasStation;
+import com.touir.leetcode.solutions.BestBuySellStock;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new GasStation();
+		Solution solution = new BestBuySellStock();
 
 		solution.test();
 	}
