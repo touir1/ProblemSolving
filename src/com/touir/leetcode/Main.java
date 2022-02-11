@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.SubarraySumEqualsK;
+import com.touir.leetcode.solutions.PermutationInString;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new SubarraySumEqualsK();
+		Solution solution = new PermutationInString();
 
 		solution.test();
 	}
