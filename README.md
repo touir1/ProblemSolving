@@ -2,6 +2,13 @@
 
 A repository documenting my daily problem solving to prepare for Google interviews :sweat_smile:
 
+***Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :***
+
+| Problem name | Solutions | Year | Round |
+| --- | --- | --- | --- |
+| [Transform The String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/h2021/TransformTheString.java) | 2021 | H |
+
+
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
 | Problem name | Solutions | Tags |
