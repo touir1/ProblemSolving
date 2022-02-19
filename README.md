@@ -7,6 +7,8 @@ A repository documenting my daily problem solving to prepare for Google intervie
 | Problem name | Solutions | Year | Round |
 | --- | --- | --- | --- |
 | [Transform The String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/h2021/TransformTheString.java) | 2021 | H |
+| [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/CentauriPrime.java) | 2022 | session 1 |
+| [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/SampleProblem.java) | 2022 | session 1 |
 
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
