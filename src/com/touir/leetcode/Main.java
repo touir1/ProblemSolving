@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.ExcelSheetColumnNumber;
+import com.touir.leetcode.solutions.CloneGraph;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new ExcelSheetColumnNumber();
+		Solution solution = new CloneGraph();
 
 		solution.test();
 	}
