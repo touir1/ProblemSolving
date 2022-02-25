@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.SortList;
+import com.touir.leetcode.solutions.CompareVersionNumbers;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new SortList();
+		Solution solution = new CompareVersionNumbers();
 
 		solution.test();
 	}
