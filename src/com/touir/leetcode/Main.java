@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.CompareVersionNumbers;
+import com.touir.leetcode.solutions.ShortestPathVisitingAllNodes;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new CompareVersionNumbers();
+		Solution solution = new ShortestPathVisitingAllNodes();
 
 		solution.test();
 	}
