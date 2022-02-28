@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.MajorityElement;
+import com.touir.leetcode.solutions.SummaryRanges;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new MajorityElement();
+		Solution solution = new SummaryRanges();
 
 		solution.test();
 	}
