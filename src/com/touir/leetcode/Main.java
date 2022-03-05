@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.ChampagneTower;
+import com.touir.leetcode.solutions.DeleteAndEarn;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new ChampagneTower();
+		Solution solution = new DeleteAndEarn();
 
 		solution.test();
 	}
