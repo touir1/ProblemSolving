@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.DeleteAndEarn;
+import com.touir.leetcode.solutions.CountAllValidPickupDeliveryOptions;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new DeleteAndEarn();
+		Solution solution = new CountAllValidPickupDeliveryOptions();
 
 		solution.test();
 	}
