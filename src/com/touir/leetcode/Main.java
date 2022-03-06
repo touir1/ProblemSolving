@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.CountAllValidPickupDeliveryOptions;
+import com.touir.leetcode.solutions.RemoveKDigits;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new CountAllValidPickupDeliveryOptions();
+		Solution solution = new RemoveKDigits();
 
 		solution.test();
 	}
