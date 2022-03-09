@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.LinkedListCycle;
+import com.touir.leetcode.solutions.RemoveDuplicatesSortedListII;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new LinkedListCycle();
+		Solution solution = new RemoveDuplicatesSortedListII();
 
 		solution.test();
 	}
