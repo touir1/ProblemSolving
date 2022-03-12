@@ -1,11 +1,11 @@
 package com.touir.leetcode;
 
-import com.touir.leetcode.solutions.RotateList;
+import com.touir.leetcode.solutions.CopyListRandomPointer;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Solution solution = new RotateList();
+		Solution solution = new CopyListRandomPointer();
 
 		solution.test();
 	}
