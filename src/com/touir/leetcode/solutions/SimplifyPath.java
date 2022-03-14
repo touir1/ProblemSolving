@@ -1,6 +1,7 @@
 package com.touir.leetcode.solutions;
 
-import java.util.Stack;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 import com.touir.leetcode.Solution;
 
@@ -15,58 +16,31 @@ public class SimplifyPath extends Solution {
 	public String simplifyPath(String path) {
 		if (path.length() <= 1)
 			return path;
-		String temp = "";
-		int countP = 0;
-		Stack<String> stack = new Stack<>();
-		for (int i = 0; i < path.length(); i++) {
-			char curr = path.charAt(i);
-			if (curr != '.' && curr != '/') {
-				if (countP != 0)
-					for (; countP > 0; countP--)
-						temp += '.';
-				temp += curr;
-				countP = 0;
-			} else if (curr == '/') {
-				if (countP == 1)
-					countP = 0;
-				if (countP == 2) {
-					if (!stack.isEmpty())
-						stack.pop();
-					countP = 0;
-				} else if (temp != "") {
-					stack.push(temp);
-					temp = "";
-				}
+		int len = path.length(), i = -1, begin;
+		Deque<String> queue = new ArrayDeque<String>();
+		while (i < len) {
+			i++;
+			begin = i;
+			while (i < len && path.charAt(i) != '/') {
+				i++;
+			}
+			String s = path.substring(begin, i);
+			if (s.equals(".") || s.isEmpty())
+				continue;
+			if (s.equals("..")) {
+				if (!queue.isEmpty())
+					queue.pollLast();
 			} else {
-				if (temp == "")
-					countP++;
-				else {
-					temp += '.';
-				}
+				queue.add(s);
 			}
 		}
-		if (temp != "") {
-			if (countP != 0 && temp.charAt(temp.length() - 1) != '.') {
-				for (; countP > 0; countP--)
-					temp += '.';
-			}
-			stack.push(temp);
-		} else {
-			if (countP == 2) {
-				if (!stack.isEmpty())
-					stack.pop();
-			} else if (countP >= 3) {
-				for (; countP > 0; countP--)
-					temp += '.';
-				stack.push(temp);
-			}
+		if (queue.isEmpty())
+			return "/";
+		StringBuilder result = new StringBuilder();
+		while (!queue.isEmpty()) {
+			result.append("/").append(queue.pollFirst());
 		}
-
-		String result = "";
-		while (!stack.isEmpty()) {
-			result = "/" + stack.pop() + result;
-		}
-		return result == "" ? "/" : result;
+		return result.toString();
 	}
 
 	@Override
