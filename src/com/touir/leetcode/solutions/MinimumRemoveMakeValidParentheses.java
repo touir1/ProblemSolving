@@ -11,27 +11,30 @@ public class MinimumRemoveMakeValidParentheses extends Solution {
 	 */
 
 	public String minRemoveToMakeValid(String s) {
-		int count = 0;
-		StringBuilder result = new StringBuilder();
-		int i = -1, len = s.length();
-		while (++i < len) {
-			char c = s.charAt(i);
-			if (c == '(') {
+		int count = 0, len = s.length(), i;
+		char[] chars = s.toCharArray();
+		for (i = 0; i < len; i++) {
+			if (chars[i] == '(')
 				count++;
-				result.append(c);
-			} else if (c == ')') {
-				if (count > 0) {
+			else if (chars[i] == ')') {
+				if (count == 0)
+					chars[i] = '*';
+				else
 					count--;
-					result.append(c);
-				}
-			} else
-				result.append(c);
+			}
 		}
+		i = len - 1;
 		while (count-- > 0) {
-			i = result.lastIndexOf("(");
-			result.deleteCharAt(i);
+			while (chars[i] != '(')
+				i--;
+			chars[i] = '*';
 		}
-		return result.toString();
+
+		count = 0;
+		for (i = 0; i < len; i++)
+			if (chars[i] != '*')
+				chars[count++] = chars[i];
+		return new String(chars,0,count);
 	}
 
 	@Override
