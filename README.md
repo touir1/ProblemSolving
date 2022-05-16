@@ -2,6 +2,8 @@
 
 A repository documenting my daily problem solving to prepare for Google interviews :sweat_smile:
 
+Many of the problems solved are just done as a daily practice. But for UVa problems, they are listed in a book called **Competitive Programming 3** by **Steven & Felix Halim**.
+
 ***Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :***
 
 | Problem name | Solutions | Year | Round |
@@ -10,6 +12,11 @@ A repository documenting my daily problem solving to prepare for Google intervie
 | [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/CentauriPrime.java) | 2022 | session 1 |
 | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/SampleProblem.java) | 2022 | session 1 |
 
+***Solved problems from [UVa Online Judge](https://onlinejudge.org/) :***
+
+| Problem name | Solutions | Tags | Book page |
+| --- | --- | --- | --- |
+| [272. TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=208&mosmsg=Submission+received+with+ID+27493581) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/TEXQuotes.java) | String | 19 |
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
