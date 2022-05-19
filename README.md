@@ -17,7 +17,8 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | Problem name | Solutions | Tags | Book page |
 | --- | --- | --- | --- |
 | [272. TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=208) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/TEXQuotes.java) | String | 19 |
-| [1124 - Celebrity jeopardy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=3565) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CelebrityJeopardy.java) | String | 19 |
+| [1124 - Celebrity jeopardy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=3565) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CelebrityJeopardy.java) | Ad hoc | 19 |
+| [10550 - Combination Lock](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CombinationLock.java) | Ad hoc | 19 |
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
