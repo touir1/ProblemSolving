@@ -14,12 +14,12 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 
 ***Solved problems from [UVa Online Judge](https://onlinejudge.org/) :***
 
-| Problem name | Solutions | Tags | Book page |
-| --- | --- | --- | --- |
-| [272. TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=208) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/TEXQuotes.java) | String | 19 |
-| [1124 - Celebrity jeopardy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=3565) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CelebrityJeopardy.java) | Ad hoc | 19 |
-| [10550 - Combination Lock](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CombinationLock.java) | Simulation | 19 |
-| [11044 - Searching for Nessy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1985) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/SearchingForNessy.java) | Math | 19 |
+| Problem name | Solutions | Tags | Book page | Book Section |
+| --- | --- | --- | --- | --- |
+| [272. TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=208) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/TEXQuotes.java) | String | 19 | 1.3.3 Time to Start the Journey |
+| [1124 - Celebrity jeopardy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=3565) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CelebrityJeopardy.java) | Ad hoc | 19 | 1.3.3 Time to Start the Journey |
+| [10550 - Combination Lock](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CombinationLock.java) | Simulation | 19 | 1.3.3 Time to Start the Journey |
+| [11044 - Searching for Nessy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1985) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/SearchingForNessy.java) | Math | 19 | 1.3.3 Time to Start the Journey|
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
