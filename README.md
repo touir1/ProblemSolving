@@ -2,7 +2,7 @@
 
 A repository documenting my daily problem solving to prepare for Google interviews :sweat_smile:
 
-Many of the problems solved are just done as a daily practice. But for UVa problems, they are listed in a book called **Competitive Programming 3** by **Steven & Felix Halim**.
+Many of the problems solved are just done as a daily practice. But for UVa problems, they are listed in a book called **Competitive Programming 3** by **Steven & Felix Halim** and i'm solving them while reading the book.
 
 ***Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :***
 
@@ -21,6 +21,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [10550 - Combination Lock](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CombinationLock.java) | Ad hoc, Simulation | 19 | 1.3.3 Time to Start the Journey |
 | [11044 - Searching for Nessy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1985) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/SearchingForNessy.java) | Ad hoc, Math | 19 | 1.3.3 Time to Start the Journey|
 | [11172 - Relational Operator](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2113) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/RelationalOperators.java) | Ad hoc, Comparison | 19 | 1.3.3 Time to Start the Journey|
+| [11364 - Parking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2349) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/Parking.java) | Ad hoc, Math | 19 | 1.3.3 Time to Start the Journey|
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
