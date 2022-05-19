@@ -1,6 +1,8 @@
 // remove package before submitting
 package com.touir.UVa;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 //change classname to Main before submitting
@@ -12,9 +14,9 @@ public class TEXQuotes {
 	 * url: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208
 	 */
 	
-	public static void main(String[] args) {
-		//Scanner scan = new Scanner(new FileInputStream("./src/com/touir/UVa/input/TEXQuotes.txt"));
-		Scanner scan = new Scanner(System.in);
+	public static void main(String[] args) throws FileNotFoundException {
+		Scanner scan = new Scanner(new FileInputStream("./src/com/touir/UVa/input/TEXQuotes.txt"));
+		//Scanner scan = new Scanner(System.in);
 		String input = null;
 		
 		boolean opening = true;
