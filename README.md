@@ -24,6 +24,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [11364 - Parking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2349) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/Parking.java) | Ad hoc, Math | 19 | 1.3.3 Time to Start the Journey |
 | [11498 - Division of Nlogonia](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2493) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/DivisionOfNlogonia.java) | Ad hoc, Coordinates | 19 | 1.3.3 Time to Start the Journey |
 | [11547 - Automatic Answer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2542) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/AutomaticAnswer.java) | Ad hoc, Math | 20 | 1.3.3 Time to Start the Journey |
+| [11727 - Cost Cutting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2827) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CostCutting.java) | Ad hoc, Sort | 20 | 1.3.3 Time to Start the Journey |
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
