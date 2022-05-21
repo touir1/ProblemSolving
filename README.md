@@ -27,6 +27,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [11727 - Cost Cutting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=2827) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CostCutting.java) | Ad hoc, Sort | 20 | 1.3.3 Time to Start the Journey |
 | [12250 - Language Detection](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3402) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/LanguageDetection.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
 | [12279 - Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3431) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/EmoogleBalance.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
+| [12289 - One-Two-Three](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3710) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/OneTwoThree.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
