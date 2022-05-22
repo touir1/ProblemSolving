@@ -18,6 +18,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | --- | --- | --- | --- | --- |
 | [272. TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=208) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/TEXQuotes.java) | Ad hoc, String | 19 | 1.3.3 Time to Start the Journey |
 | [1124 - Celebrity jeopardy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=3565) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CelebrityJeopardy.java) | Ad hoc | 19 | 1.3.3 Time to Start the Journey |
+| [10114 - Loansome Car Buyer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=608&page=show_problem&problem=1055) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/LoansomeCarBuyer.java) | Ad hoc, Simulation | 20 | 1.3.3 Time to Start the Journey |
 | [10550 - Combination Lock](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/CombinationLock.java) | Ad hoc, Simulation | 19 | 1.3.3 Time to Start the Journey |
 | [11044 - Searching for Nessy](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1985) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/SearchingForNessy.java) | Ad hoc, Math | 19 | 1.3.3 Time to Start the Journey |
 | [11172 - Relational Operator](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2113) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/RelationalOperators.java) | Ad hoc, Comparison | 19 | 1.3.3 Time to Start the Journey |
@@ -29,6 +30,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [12279 - Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3431) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/EmoogleBalance.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
 | [12289 - One-Two-Three](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3710) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/OneTwoThree.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
 | [12372 - Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3794) | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/PackingForHoliday.java) | Ad hoc | 20 | 1.3.3 Time to Start the Journey |
+
 
 ***Solved problems from [leetcode.com](https://leetcode.com/) :***
 
