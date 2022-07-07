@@ -44,7 +44,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [12289 - One-Two-Three](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3710)                                                                           | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/OneTwoThree.java)         | Ad hoc                    | 1.3.3 Time to Start the Journey |
 | [12372 - Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3794)                                                                     | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/PackingForHoliday.java)   | Ad hoc                    | 1.3.3 Time to Start the Journey |
 
-###### Solved problems from [leetcode.com](https://leetcode.com/) :
+### Solved problems from [leetcode.com](https://leetcode.com/) :
 
 | Problem name                                                                                                                      | Solutions                                                                                                                           | Tags                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
