@@ -10,15 +10,19 @@ We have three sections:
 
 - [Other data structures](#other-data-structures-implemented) (implemented)
 
+All the data structures complexities are also listed: [time complexity](#time-complexities)
+
+
+
 ## Linear data structures (built-in)
 
-- Static array: [java](Linear/Array.md)
+- Static array: [java](Linear (built-in)/Array.md)
   
   - Fixed size
   
   - Access by index
 
-- Dynamically-resizable array (ArrayList: [Java](Linear/ArrayList.md) or Vector: [java](Linear/Vector.md))
+- Dynamically-resizable array (ArrayList: [Java](Linear (built-in)/ArrayList.md) or Vector: [java](Linear (built-in)/Vector.md))
   
   - Dynamic size
   
