@@ -12,13 +12,13 @@ We have three sections:
 
 ## Linear data structures (built-in)
 
-- Static array: [java](DataStructures/Linear/Array.md)
+- Static array: [java](Linear/Array.md)
   
   - Fixed size
   
   - Access by index
 
-- Dynamically-resizable array (ArrayList: [Java](Documentation/DataStructures/Linear/ArrayList.md) or Vector: [java](Documentation/DataStructures/Linear/Vector.md))
+- Dynamically-resizable array (ArrayList: [Java](Linear/ArrayList.md) or Vector: [java](Linear/Vector.md))
   
   - Dynamic size
   
