@@ -36,7 +36,7 @@ We have three sections:
 
 ## Time Complexities
 
-| Data structure | Set (in index) | Access | Insert | Delete | Search (non sorted) | Search (sorted) |
+| Data structure | Put (in index) | Access | Insert | Delete | Search (non sorted) | Search (sorted) |
 | -------------- | -------------- | ------ | ------ | ------ | ------------------- | --------------- |
 | Static Array   | O(1)           | O(1)   | O(N)   | O(N)   | O(N)                | O(log N)        |
 | ArrayList      | O(1)           | O(1)   | O(N)   | O(N)   | O(N)                | O(log N)        |
