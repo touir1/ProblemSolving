@@ -4,7 +4,7 @@ A repository documenting my daily problem solving to prepare for Google intervie
 
 Many of the problems solved are just done as a daily practice. But for UVa problems, they are listed in a book called **Competitive Programming 3** by **Steven & Felix Halim** and i'm solving them while reading the book.
 
-###### Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :
+### Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :
 
 | Problem name                                                                                                        | Solutions                                                                                                                 | Year | Round     |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---- | --------- |
@@ -12,7 +12,7 @@ Many of the problems solved are just done as a daily practice. But for UVa probl
 | [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5)       | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/CentauriPrime.java) | 2022 | session 1 |
 | [Sample Problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404)       | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/google/kickstart/practice2022/SampleProblem.java) | 2022 | session 1 |
 
-###### Solved problems from [UVa Online Judge](https://onlinejudge.org/) :
+### Solved problems from [UVa Online Judge](https://onlinejudge.org/) :
 
 | Problem name                                                                                                                                                                                                     | Solutions                                                                                             | Tags                      | Book section                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------- |
