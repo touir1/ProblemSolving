@@ -4,11 +4,11 @@ In this chapter, we'll be presenting all the data structures used in problem sol
 
 We have three sections:
 
-- [Linear data structures](#linear-data-structures-(built-in)) (built-in libraries): where we enumerate all the data structures that have elements forming a linear sequence, i.e. it's elements are arranged from left to right (or top to bottom)
+- [Linear data structures](#linear-data-structures-built-in) (built-in libraries): where we enumerate all the data structures that have elements forming a linear sequence, i.e. it's elements are arranged from left to right (or top to bottom)
 
-- [Non-linear data structures](#non-linear-data-structures-(built-in)) (built-in libraries): structures that don't respect the linear approch.
+- [Non-linear data structures](#non-linear-data-structures-built-in) (built-in libraries): structures that don't respect the linear approch.
 
-- [Other data structures](#other-data-structures-(implemented)) (implemented)
+- [Other data structures](#other-data-structures-implemented) (implemented)
 
 ## Linear data structures (built-in)
 
