@@ -4,6 +4,8 @@ A repository documenting my daily problem solving to prepare for Google intervie
 
 Many of the problems solved are just done as a daily practice. But for UVa problems, they are listed in a book called **Competitive Programming 3** by **Steven & Felix Halim** and i'm solving them while reading the book.
 
+I'm also writing a documentation for the different algorithms and datastructures used which can be found [here](Documentation/README.md).
+
 ### Solved problems from [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) :
 
 | Problem name                                                                                                        | Solutions                                                                                                                 | Year | Round     |
