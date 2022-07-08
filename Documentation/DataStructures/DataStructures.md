@@ -14,13 +14,13 @@ All the data structures complexities are also listed: [time complexity](#time-co
 
 ## Linear data structures (built-in)
 
-- Static array: [java](Linear (built-in)/Array.md)
+- Static array: [java](Linear%20(built-in)/Array.md)
   
   - Fixed size
   
   - Access by index
 
-- Dynamically-resizable array (ArrayList: [Java](Linear (built-in)/ArrayList.md) or Vector: [java](Linear (built-in)/Vector.md))
+- Dynamically-resizable array (ArrayList: [Java](Linear%20(built-in)/ArrayList.md) or Vector: [java](Linear%20(built-in)/Vector.md))
   
   - Dynamic size
   
