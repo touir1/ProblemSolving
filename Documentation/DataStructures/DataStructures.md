@@ -12,8 +12,6 @@ We have three sections:
 
 All the data structures complexities are also listed: [time complexity](#time-complexities)
 
-
-
 ## Linear data structures (built-in)
 
 - Static array: [java](Linear (built-in)/Array.md)
