@@ -8,8 +8,6 @@ Some key points:
 
 - Can have multiple dimensions
 
-
-
 ## Declaration
 
 ```java
