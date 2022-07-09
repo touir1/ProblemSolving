@@ -57,7 +57,7 @@ for(int i = 0; i < intArray.length; i++){
 }
 // or
 for(int element : intArray){
-    System.out.println(intArray[i]);
+    System.out.println(element);
 }
 ```
 
@@ -89,6 +89,9 @@ for (int i = 0; i < intArray.length; i++) {
 }
 // if the array is sorted, we can use binary search
 int index = Arrays.binarySearch(intArray, 4);
+// if the array is sorted using a custom comparator
+// you can pass the comparator as parameter for the search
+int index = Arrays.binarySearch(intArray, 4, comparator);
 ```
 
 ## Concatenating
