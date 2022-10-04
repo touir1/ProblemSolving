@@ -25,7 +25,6 @@ public class RotatedSquare {
 		BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));
 		
 		String[] input;
-		String row;
 		int N,n;
 		boolean r1,r2,r3,r4;
 		
@@ -45,12 +44,10 @@ public class RotatedSquare {
 			countR1 = countR2 = countR3 = countR4 = 0;
 			
 			for(int i=0;i<N;i++) {
-				row = in.readLine();
-				bigSquare[i] = row;
+				bigSquare[i] = in.readLine();
 			}
 			for(int i=0;i<n;i++) {
-				row = in.readLine();
-				smallSquare[i] = row;
+				smallSquare[i] = in.readLine();
 			}
 			
 			// solution
@@ -58,6 +55,7 @@ public class RotatedSquare {
 				for(int j=0;j<N-n+1;j++) {
 					r1 = r2 = r3 = r4 = true;
 					
+					// check for equal sub square
 					for(int ii=0;ii<n;ii++) {
 						for(int jj=0;jj<n;jj++) {
 							//   0 deg
