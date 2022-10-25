@@ -57,6 +57,7 @@ I'm also writing a documentation for the different algorithms and datastructures
 | [12291 - Polyomino Composer](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=624&page=show_problem&problem=3712)              | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/PolyominoComposer.java)   | Matrix                      | 2.2. Linear DS with Built-in Libraries |
 | [12356 - Army Buddies](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=623&page=show_problem&problem=3778)                    | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/ArmyBuddies.java)         | Array, Buffers, Linked list | 2.2. Linear DS with Built-in Libraries |
 | [12372 - Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3794)         | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/PackingForHoliday.java)   | Ad hoc                      | 1.3.3 Time to Start the Journey        |
+| [12398 - NumPuzz I](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=624&page=show_problem&problem=3829)                       | [Java](https://github.com/touir1/ProblemSolving/blob/main/src/com/touir/UVa/NumPuzzI.java)            | Matrix                      | 2.2. Linear DS with Built-in Libraries |
 
 ### Solved problems from [leetcode.com](https://leetcode.com/) :
 
