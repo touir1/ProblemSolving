@@ -24,6 +24,7 @@ public class HeadJudgeHeadache {
 	 */
 	
 	public static void main(String[] args) throws FileNotFoundException, IOException {
+		// comment next row and uncomment the one after before submitting
 		BufferedReader in = new BufferedReader(new FileReader("./src/com/touir/UVa/input/HeadJudgeHeadache.txt"));
 		//BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 

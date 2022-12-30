@@ -18,6 +18,7 @@ public class Newspaper {
 	 */
 	
 	public static void main(String[] args) throws IOException, FileNotFoundException {
+		// comment next row and uncomment the one after before submitting
 		BufferedReader in = new BufferedReader(new FileReader("./src/com/touir/UVa/input/Newspaper.txt"));
 		//BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		

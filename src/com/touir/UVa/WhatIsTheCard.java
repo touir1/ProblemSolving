@@ -15,6 +15,7 @@ public class WhatIsTheCard {
 	 */
 
 	public static void main(String[] args) throws FileNotFoundException {
+		// comment next row and uncomment the one after before submitting
 		Scanner scan = new Scanner(new FileInputStream("./src/com/touir/UVa/input/WhatIsTheCard.txt"));
 		//Scanner scan = new Scanner(System.in);
 

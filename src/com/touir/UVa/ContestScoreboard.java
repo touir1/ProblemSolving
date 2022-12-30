@@ -21,6 +21,7 @@ public class ContestScoreboard {
 	 */
 	
 	public static void main(String[] args) throws FileNotFoundException, IOException {
+		// comment next row and uncomment the one after before submitting
 		BufferedReader in = new BufferedReader(new FileReader("./src/com/touir/UVa/input/ContestScoreboard.txt"));
 		//BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 

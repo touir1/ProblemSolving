@@ -9,12 +9,13 @@ import java.util.Scanner;
 public class BenderBRodriguez {
 
 	/*
-	 * problem: 11507 - Bender B. Rodríguez Problem
+	 * problem: 11507 - Bender B. Rodrï¿½guez Problem
 	 * 
 	 * url: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=609&page=show_problem&problem=2502
 	 */
 	
 	public static void main(String[] args) throws FileNotFoundException {
+		// comment next row and uncomment the one after before submitting
 		Scanner scan = new Scanner(new FileInputStream("./src/com/touir/UVa/input/BenderBRodriguez.txt"));
 		//Scanner scan = new Scanner(System.in);
 		

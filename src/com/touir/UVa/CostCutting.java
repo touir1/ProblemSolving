@@ -16,6 +16,7 @@ public class CostCutting {
 	 */
 	
 	public static void main(String[] args) throws FileNotFoundException {
+		// comment next row and uncomment the one after before submitting
 		Scanner scan = new Scanner(new FileInputStream("./src/com/touir/UVa/input/CostCutting.txt"));
 		//Scanner scan = new Scanner(System.in);
 		
